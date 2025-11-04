@@ -1,9 +1,14 @@
 📌 Employee Task Tracker
 -> This is a simple full-stack web project where we can:
+
 -> Add employees
+
 -> Assign tasks to employees
+
 -> Update task status (ex: Completed)
+
 -> View employee task performance
+
 -> Basic dashboard summary
 
 I built this project to practice Spring Boot + React + MySQL and understand how frontend and backend work together in a real application.
@@ -22,19 +27,30 @@ Employee_Task_Tracker/
 
 ✨ Features
 -> Add & view employees
+
 -> Assign tasks to specific employees
+
 -> Change task status (ex: Completed)
+
 -> View performance based on completed tasks
+
 -> Simple dashboard with summary
 
 🧠 What I Learned
 -> Creating REST APIs in Spring Boot
+
 -> MySQL database design & one-to-many mapping
+
 -> Testing APIs using Postman
+
 -> Calling APIs from React using Axios
+
 -> Using Material UI components
+
 -> Handling React state and forms
+
 -> Folder structure for full-stack project
+
 -> Basic Git & GitHub usage
 
 ⚙️ How to Run
@@ -45,6 +61,7 @@ mvn spring-boot:run
 
 Create MySQL DB:
 -> CREATE DATABASE task_tracker;
+
 -> Update DB username & password in application.properties.
 
 Frontend
