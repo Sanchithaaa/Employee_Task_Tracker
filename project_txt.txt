@@ -1,0 +1,4 @@
+STACK FOOD APP- 
+PASSWORD: MjGZ3ISkDF0h9j0c
+mongodb+srv://stackfooduser:MjGZ3ISkDF0h9j0c@cluster0.nnbwsik.mongodb.net/stackfood
+mongodb+srv://stackfooduser:MyPassword123@cluster0.xxxxx.mongodb.net/stackfood
